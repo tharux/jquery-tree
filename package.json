@@ -1,0 +1,27 @@
+{
+  "name": "@tharux/jquery-tree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tree.src.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tharux/jquery-tree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tharux/jquery-tree/issues"
+  },
+  "homepage": "https://github.com/tharux/jquery-tree#readme",
+  "devDependencies": {
+    "webpack": "^4.1.0"
+  },
+  "dependencies": {
+    "dom4": "^2.0.1",
+    "ie8": "^0.8.0"
+  }
+}
